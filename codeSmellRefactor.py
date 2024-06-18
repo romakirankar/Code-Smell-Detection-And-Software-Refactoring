@@ -1,7 +1,3 @@
-#Kindly Note: Refactoring functionality refactors the code based on duplicates
-#However, as discussed and approved by the Professor, Python files work with indentation 
-# the refactored code removes the empty lines and certain spaces from the code
-
 import tkinter as tk 
 from tkinter import filedialog
 import ast
